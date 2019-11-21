@@ -18,7 +18,11 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Ethology-Books/blob/master/etl(11).pdf" style="text-decoration:none;">Biology and freedom: An essay on the implications of human ethology</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Ethology-Books/blob/master/etl(12).pdf" style="text-decoration:none;">Assemblages of Health: Deleuze's Empiricism and the Ethology of Life</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Ethology-Books/blob/master/etl(13).pdf" style="text-decoration:none;">Old Tricks, New Dogs: Ethology and Interactive Creatures</a></b></li>  
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Ethology-Books/blob/master/etl(14).pdf" style="text-decoration:none;">John Bowlby and ethology: a study of cross-fertilization</a></b></li>
+ 
   
   
 
